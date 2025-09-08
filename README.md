@@ -287,7 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Links
 
-- **Website**: [Coming Soon]
 - **Documentation**: [Stellar Docs](https://soroban.stellar.org)
 - **Explorer**: [Stellar Expert](https://stellar.expert/explorer/testnet)
 - **Discord**: [Stellar Community](https://discord.gg/stellar)
