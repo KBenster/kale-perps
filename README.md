@@ -1,6 +1,6 @@
 # KALE Perpetual Exchange
 
-https://testvercellink-7hf1irgv4-rrari84s-projects.vercel.app/
+[https://testvercellink-7hf1irgv4-rrari84s-projects.vercel.app/](https://testvercellink.vercel.app/)
 
 > A decentralized leveraged trading platform built on Stellar's Soroban smart contract platform, featuring KALE as the primary collateral asset.
 
